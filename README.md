@@ -76,7 +76,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* [Fausto Gutierrez](https://github.com/faustogut)
+* [Borja Pérez](https://github.com/borjadev)
+* [Jorge López](https://github.com/jorgeldbr)
+* [Juan Pablo Hernández](https://github.com/juanpablohp33)
+* [Esther Balbuena](https://github.com/eba07)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
